@@ -2,6 +2,7 @@
 **`Software Engineer · Computer Science`**
 
 I believe great developers are not defined by the tools they use, but by how they think.
+
 I value strong fundamentals over specific tools, and I approach development with a problem-solving mindset—choosing the right technology for each challenge.
 
 ---
