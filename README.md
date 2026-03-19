@@ -27,6 +27,3 @@ Building a personal **backend API project** — focused on clean architecture, s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![DannyGuevara1's Stats](https://github-readme-stats.vercel.app/api?username=DannyGuevara1&theme=radical&show_icons=true&hide_border=false&count_private=true)
